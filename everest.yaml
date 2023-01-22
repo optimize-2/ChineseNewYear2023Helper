@@ -1,0 +1,8 @@
+- Name: ChineseNewYear2023Helper
+  Version: 1.0.1
+  DLL: bin/ChineseNewYear2023Helper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3471.0
+    - Name: CollabUtils2
+      Version: 1.6.15

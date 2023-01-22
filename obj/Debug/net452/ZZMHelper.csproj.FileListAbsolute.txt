@@ -1,0 +1,10 @@
+e:\program\ChineseNewYear2023Helper\bin\Debug\net452\ChineseNewYear2023Helper.dll
+e:\program\ChineseNewYear2023Helper\bin\Debug\net452\ChineseNewYear2023Helper.pdb
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.csproj.AssemblyReference.cache
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.GeneratedMSBuildEditorConfig.editorconfig
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.AssemblyInfoInputs.cache
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.AssemblyInfo.cs
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.csproj.CoreCompileInputs.cache
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.dll
+e:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.pdb
+E:\program\ChineseNewYear2023Helper\obj\Debug\net452\ChineseNewYear2023Helper.csproj.CopyComplete

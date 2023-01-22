@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\program\\ChineseNewYear2023Helper\\ChineseNewYear2023Helper.csproj": {}
+  },
+  "projects": {
+    "E:\\program\\ChineseNewYear2023Helper\\ChineseNewYear2023Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\program\\ChineseNewYear2023Helper\\ChineseNewYear2023Helper.csproj",
+        "projectName": "ChineseNewYear2023Helper",
+        "projectPath": "E:\\program\\ChineseNewYear2023Helper\\ChineseNewYear2023Helper.csproj",
+        "packagesPath": "C:\\Users\\optimize_2\\.nuget\\packages\\",
+        "outputPath": "E:\\program\\ChineseNewYear2023Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\optimize_2\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "targetAlias": "net452",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "targetAlias": "net452",
+          "dependencies": {
+            "MonoMod.RuntimeDetour": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[21.8.19.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

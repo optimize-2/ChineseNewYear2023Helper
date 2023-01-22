@@ -1,0 +1,3 @@
+ChineseNewYear2023Helper_OPTIMIZE2_BUY_FAILED_MONEY= Money is not enough!
+ChineseNewYear2023Helper_OPTIMIZE2_BUY_FAILED_COUNT= You can't buy more!
+ChineseNewYear2023Helper_OPTIMIZE2_REMAINING_MONEY= Remaining money

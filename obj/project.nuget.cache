@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "f3ZC5vCOHOjWAiiD8tLFdnjjhaZ2zJaFN5DtRdXfGbz+Ow0L8kE0m+Hrtqkcg19mEV5xAyb5Jlp/H6oE5rdBPQ==",
+  "success": true,
+  "projectFilePath": "E:\\program\\ChineseNewYear2023Helper\\ChineseNewYear2023Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\optimize_2\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\optimize_2\\.nuget\\packages\\monomod.runtimedetour\\21.8.19.1\\monomod.runtimedetour.21.8.19.1.nupkg.sha512",
+    "C:\\Users\\optimize_2\\.nuget\\packages\\monomod.utils\\21.8.19.1\\monomod.utils.21.8.19.1.nupkg.sha512"
+  ],
+  "logs": []
+}
